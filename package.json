@@ -1,0 +1,29 @@
+{
+  "name": "cls",
+  "version": "1.0.0",
+  "description": "Recoded version of the existing website of Flynails Beauty Lounge",
+  "main": "index.js",
+  "scripts": {
+      "scss": "node-sass --watch scss -o assets/css"
+
+  },
+  "keywords": [
+    "Flynails",
+    "HTML",
+    "CSS",
+    "SASS",
+    "Bootstrap-v5"
+  ],
+  "author": "Ericka Mae Mateo",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.37.5"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "autoprefixer": "^10.3.1",
+    "bootstrap": "^5.1.0",
+    "node-sass": "^6.0.1",
+    "postcss-cli": "^8.3.1"
+  }
+}
