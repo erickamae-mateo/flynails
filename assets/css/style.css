@@ -7804,12 +7804,11 @@ textarea.form-control-lg {
   .d-print-none {
     display: none !important; } }
 
-@use '../custom' as *;
-@use '../custom' as *;
+
 body {
   font-family: 'Marcellus', serif; }
 
-@use '../custom' as *;
+
 body {
   background-color: #cc8d7b;
   margin: 0px 20px;
@@ -7820,7 +7819,7 @@ body {
 p {
   color: #666666; }
 
-@use '../custom' as *;
+
 .header {
   position: relative;
   z-index: 100;
@@ -7993,7 +7992,7 @@ p {
 .breadcrumbs .breadcrumb-divider {
   color: #fff; }
 
-@use '../custom' as *;
+
 @media (min-width: 414px) and (max-width: 575px) {
   .intro-carousel .added-padding p {
     padding-bottom: 20px; } }
@@ -8072,8 +8071,7 @@ p {
     .r-button {
       left: 98%; } }
 
-@use '../custom' as *;
-@use '../components/mixins' as *;
+
 .feature {
   padding-top: 60px;
   padding-bottom: 30px;
@@ -8126,8 +8124,6 @@ p {
   .feature .card-img-top {
     border: none; }
 
-@use '../custom' as *;
-@use '../components/mixins' as *;
 .services {
   padding-top: 50px;
   padding-bottom: 70px;
@@ -8169,7 +8165,7 @@ p {
 .service-names {
   padding-top: 10px; }
 
-@use '../custom' as *;
+
 .cta {
   background-repeat: no-repeat;
   background-size: cover;
@@ -8221,7 +8217,7 @@ p {
   .cta-btn:hover {
     color: #000; }
 
-@use '../custom' as *;
+
 .testimonials {
   background-color: #F6F6F6;
   padding: 87px 0 122px; }
@@ -8317,8 +8313,7 @@ p {
     .next-btn {
       left: calc(100% - 45.5%); } }
 
-@use '../custom' as *;
-@use '../components/mixins' as *;
+
 .contact {
   background-color: #fff;
   padding: 80px 30px; }
@@ -8376,7 +8371,7 @@ p {
       color: #dca445;
       font-weight: bolder; }
 
-@use '../custom' as *;
+
 .team {
   padding: 51px 0 74px; }
   .team .bg-1 {
@@ -8412,7 +8407,7 @@ p {
       font-size: 2.25rem;
       color: #72466a; }
 
-@use '../custom' as *;
+
 .footer-social .social-text {
   text-align: end; }
   @media (max-width: 575.98px) {
